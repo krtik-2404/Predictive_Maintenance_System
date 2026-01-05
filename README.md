@@ -38,8 +38,5 @@ jupyter notebook
 - Cross-validation scores
 - Feature importance analysis
 - Failure prediction horizons
-.
-.
-.
 
 
