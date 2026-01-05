@@ -19,7 +19,7 @@ Predictive maintenance solution using NASA CMAPSS turbofan engine dataset to for
 ## Results
 Achieved competitive RUL prediction accuracy on NASA benchmark dataset with detailed performance analysis across multiple engine failure scenarios.
 
-## 🚀 Quick Start
+##  Quick Start
 ```bash
 git clone <repo>
 cd predictive-maintenance
@@ -27,13 +27,13 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-## 📈 Models Implemented
+##  Models Implemented
 - **LSTM Networks**: Sequential time-series modeling
 - **Transformer Models**: Attention-based RUL prediction
 - **XGBoost Ensemble**: Gradient boosting baseline
 - **Feature Engineering**: Lagging features, rolling statistics
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 - RMSE, MAE for RUL regression
 - Cross-validation scores
 - Feature importance analysis
